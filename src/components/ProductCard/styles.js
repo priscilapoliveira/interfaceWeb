@@ -31,6 +31,10 @@ export const Card = styled.div`
   -moz-box-shadow: 3px 4px 5px 0px rgba(204, 204, 204, 0.38);
   box-shadow: 3px 4px 5px 0px rgba(204, 204, 204, 0.38);
 
+  :hover {
+    background-color: #bedaea;
+  }
+
   @media only screen and (max-width: 570px) {
     display: flex;
     flex-direction: column;
