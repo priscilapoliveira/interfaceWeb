@@ -1,4 +1,4 @@
-## 💇🏻‍♂️ About the project
+## 😸 About the project
 
 Poc to a web project to show simple data from an external api.
 
